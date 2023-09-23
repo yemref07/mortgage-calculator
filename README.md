@@ -1,6 +1,7 @@
 # mortgage-calculator
+https://morgage-calculator2000.netlify.app/
+This small project using many of the vue3 composition api features and pinia for state management.
 
-This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
